@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of glowingblue/null-driver.** Not for installation: use [Packagist](https://packagist.org/packages/glowingblue/null-driver) or the [upstream repository](https://github.com/glowingblue/flarum-ext-null-driver).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/glowingblue-null-driver/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/glowingblue-null-driver/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-11-15 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-null-driver/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/glowingblue-null-driver.json](https://github.com/flarchive/archive-index/blob/main/packages/glowingblue-null-driver.json)
 
